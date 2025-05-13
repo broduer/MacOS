@@ -24,4 +24,4 @@ Identifier macOS-X-images
 Scanner Internet Archive HTML5 Uploader 1.7.0
 
 
-[LINK] https://archive.org/download/macOS-X-images [/LINK] 
+[LINK] https://archive.org/download/macOS-X-images [LINK] 
