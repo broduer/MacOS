@@ -2,7 +2,7 @@
 #### credits to Archive.org for keeping the backups! 
 
 
-Topics mac os x apple image iso dmg installation cd
+
 Item Size 205.8G
 They were all downloaded from Apple and converted into images. No changes have been made to the files. Compatible VMware versions have been written.
 
@@ -22,3 +22,6 @@ They were all downloaded from Apple and converted into images. No changes have b
 Addeddate 2024-02-15 00:26:35
 Identifier macOS-X-images
 Scanner Internet Archive HTML5 Uploader 1.7.0
+
+
+[LINK] https://archive.org/download/macOS-X-images
